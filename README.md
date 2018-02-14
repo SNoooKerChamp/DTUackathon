@@ -1,10 +1,10 @@
-# DTUackathon
+# DTU hackathon
 
 
 ## THE DAILY GYM App
 
 
-##Features at a glance:
+#### Features at a glance:
 
 ### Personalized User Account (based on user-filled form data)
 
@@ -18,4 +18,4 @@
 
 ### Search Facility
 
-##and a lot more.
+#### and a lot more.
