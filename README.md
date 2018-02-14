@@ -1,4 +1,4 @@
-# DTU hackathon
+##### DTU hackathon
 
 
 ## THE DAILY GYM App
