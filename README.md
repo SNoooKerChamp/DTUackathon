@@ -16,6 +16,8 @@
 
 ### WebView
 
+### Notification Enabled (know when your personal regime has been prepared)
+
 ### Search Facility
 
 #### and a lot more.
